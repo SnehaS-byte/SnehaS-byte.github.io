@@ -8,17 +8,3 @@ CC 3.0 All of the site templates we create for WebThemez are licensed under the 
  - You cannot claim credit or ownership for any of the files found on webthemez.com. 
  - You cannot redistribute, resell, license, or sub-license any of the files found on webthemez.com. 
 
- - No Support
- - No Php files ( contact form does not work)
- - No Updates
-
-
-Credits :
---------- 
-
-=> Design & developed: "WebThemez"  http://webthemez.com 
-=> Bootstrap : http://getbootstrap.com/
-=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
-=> Fonts : https://www.google.com/fonts
-=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
-=> Carousel : http://owlgraphic.com/owlcarousel/
